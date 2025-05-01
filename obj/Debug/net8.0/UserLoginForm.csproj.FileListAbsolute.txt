@@ -1,0 +1,291 @@
+D:\demo\UserLoginForm\bin\Debug\net8.0\appsettings.Development.json
+D:\demo\UserLoginForm\bin\Debug\net8.0\appsettings.json
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.staticwebassets.runtime.json
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.exe
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.deps.json
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.runtimeconfig.json
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\UserLoginForm.pdb
+D:\demo\UserLoginForm\bin\Debug\net8.0\Azure.Core.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Azure.Identity.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Humanizer.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.CodeDom.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Memory.Data.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.csproj.AssemblyReference.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.AssemblyInfoInputs.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.AssemblyInfo.cs
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.csproj.CoreCompileInputs.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.MvcApplicationPartsAssemblyInfo.cs
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.MvcApplicationPartsAssemblyInfo.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.RazorAssemblyInfo.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.RazorAssemblyInfo.cs
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets.build.json
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets.development.json
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.UserLoginForm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.build.UserLoginForm.props
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserLoginForm.props
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserLoginForm.props
+D:\demo\UserLoginForm\obj\Debug\net8.0\staticwebassets.pack.json
+D:\demo\UserLoginForm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\demo\UserLoginForm\obj\Debug\net8.0\scopedcss\bundle\UserLoginForm.styles.css
+D:\demo\UserLoginForm\obj\Debug\net8.0\scopedcss\projectbundle\UserLoginForm.bundle.scp.css
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLogi.5928F416.Up2Date
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.dll
+D:\demo\UserLoginForm\obj\Debug\net8.0\refint\UserLoginForm.dll
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.pdb
+D:\demo\UserLoginForm\obj\Debug\net8.0\UserLoginForm.genruntimeconfig.cache
+D:\demo\UserLoginForm\obj\Debug\net8.0\ref\UserLoginForm.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\appsettings.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.staticwebassets.runtime.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.exe
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.deps.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.runtimeconfig.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\UserLoginForm.pdb
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Humanizer.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.csproj.AssemblyReference.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.AssemblyInfoInputs.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.AssemblyInfo.cs
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.RazorAssemblyInfo.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.RazorAssemblyInfo.cs
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.UserLoginForm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.build.UserLoginForm.props
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserLoginForm.props
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserLoginForm.props
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\scopedcss\bundle\UserLoginForm.styles.css
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\scopedcss\projectbundle\UserLoginForm.bundle.scp.css
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLogi.5928F416.Up2Date
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\refint\UserLoginForm.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.pdb
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\UserLoginForm.genruntimeconfig.cache
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\obj\Debug\net8.0\ref\UserLoginForm.dll
+C:\Users\dshel\Desktop\Maga 2 sem\Cloud computing\UserLoginForm\bin\Debug\net8.0\aws-beanstalk-tools-defaults.json
